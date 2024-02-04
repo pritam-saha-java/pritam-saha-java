@@ -10,7 +10,7 @@
 
 ## Contact
 
-- 📫 How to reach me: [Email](mailto:pritamsaha.2k21@gmail.com), [LinkedIn](https://www.linkedin.com/in/pritam-saha/)
+- 📫 How to reach me: [Email](mailto:pritamsaha.2k21@gmail.com), [LinkedIn](https://www.linkedin.com/in/pritam-saha-java/)
 - 😄 Pronouns: He/Him
 
 ## Fun Fact
