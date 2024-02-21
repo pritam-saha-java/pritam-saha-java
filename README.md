@@ -23,10 +23,10 @@
    - Description: Developed a comprehensive hotel booking application using Spring Boot, with a strong emphasis on Spring Security for robust authentication and authorization. The application utilizes MySQL for data storage, ensuring secure and efficient handling of user information.
 
 2. **my-mall: E-commerce Application**
-   - Description: Contributed to the development of an e-commerce application using Spring Boot, AWS services like (AWS S3 bucket, Cognito, SNS (Simple Notification Service), SES(Simple Email Service) and hosted on AWS. Involved in creating scalable and reliable features to enhance the overall shopping experience for users.
+   - Description: Created to the development of an e-commerce application using Spring Boot, AWS services like (AWS S3 bucket, Cognito, SNS (Simple Notification Service), SES(Simple Email Service) and hosted on AWS. Involved in creating scalable and reliable features to enhance the overall shopping experience for users.
 
-3. **Video Call Application**
-   - Description: Collaborated on the implementation of a video call application, providing real-time communication features. Utilized Java technologies to ensure a seamless and secure video calling experience.
+3. **MessageMingle: One-to-One Chat Application**
+   - Description: MessageMingle is a one-to-one chat application built using Java, Spring Boot, WebSockets, MySQL, Docker for the backend, and HTML, CSS, and JavaScript for the frontend. This application allows users to engage in private conversations with each other in real-time.
 
 ## Skills
 
