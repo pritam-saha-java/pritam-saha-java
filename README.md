@@ -6,7 +6,7 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-Hi, I'm **Pritam Saha**, a passionate **Senior Software Engineer** specializing in backend development. I bring ideas to life with **Java**, **Python**, and **DevOps** practices. My tech journey revolves around building scalable, efficient systems using tools like **Kafka**, **Redis**, and other enterprise-grade technologies.
+Hi, I'm **Pritam Saha**, a passionate **Senior Software Engineer**, armed with **2+ years** of experience, specializing in **Backend Development & DevOps Technologies**. I bring ideas to life with **Java**, **Python**, and **DevOps** practices. My tech journey revolves around building scalable, high performance, efficient backend systems.
 
 ---
 
